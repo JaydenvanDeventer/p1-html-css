@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    
+}
+
+.blauw{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background: blue;
+}   
+
+.zwart{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background:black;
+}
+
+.rood{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background:red;
+}
+
+.groen{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background:green;
+}
+    
+
