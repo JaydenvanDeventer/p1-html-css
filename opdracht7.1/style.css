@@ -68,7 +68,7 @@ main{
 
     nav{
         display: flex;
-        background-color: red;
+        background-color: aqua;
         justify-content: flex-start;
     }
 
@@ -76,15 +76,15 @@ main{
         display: none;
     }
     .section1 {
-      background-color: yellow;
+      background-color: pink ;
       color: black;
     }
     .section2{
-        background-color: orange;
+        background-color: crimson;
         color: black;
     }
     .section3{
-        background-color: green;
+        background-color: cornflowerblue;
         color: black;
     }
   }
